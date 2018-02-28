@@ -1,0 +1,6 @@
+Controls:
+
+WASD: move ball around
+Space: Jump ball
+Z: Use powerup (Yellow is high jump, pink is bouncy)
+R to reset level
